@@ -2,7 +2,7 @@
 
 ## Description
 In this weeks challenge I created an application that an employee can use to generate a random password based on criteria they've selected. How many characters would your password contain? If you want your password to have any numbers ,lowerCase, Uppercase, and Special characters.
-![char code chart](/assets/functions.png )
+![char code chart](/assets/Functions.png )
 
 - One of the primary motivations for creating a password generator is to improve the security of login passwords. By generating random, complex passwords, it becomes much more difficult for hackers to crack your password.
 - Creating strong passwords can be difficult, especially if you need to come up with multiple unique passwords for different accounts. A password generator can make the process of creating strong passwords much easier by generating random passwords that meet certain criteria
